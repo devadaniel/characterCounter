@@ -1,0 +1,22 @@
+.word-item-container {
+  list-style-type: none;
+}
+
+.word-item {
+  display: flex;
+}
+
+.word {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #1e293b;
+  font-weight: 600;
+}
+
+.word-length {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #1e293b;
+  font-weight: 600;
+  margin-left: 5px;
+}
